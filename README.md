@@ -13,7 +13,7 @@ ExploraAi is your AI Researcher, designed to assist you in exploring research pa
 - **Content Generation**: Generate content based on user prompts and uploaded papers.
 - **Efficient Search**: Quickly find relevant information and insights from research papers.
 
-## Usage
+## 🚀 Usage
 
 - **Upload a File**: Choose a PDF file containing the research paper you want to explore.
 - **Ask Questions**: Use the chat interface to ask questions or provide prompts.
